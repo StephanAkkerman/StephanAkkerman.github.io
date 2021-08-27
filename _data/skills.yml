@@ -6,6 +6,7 @@ languages:
   - item: CSS/Sass
   - item: SQL
   - item: NetLogo
+  - item: PHP
   - item: R
 
 frameworks:
@@ -13,8 +14,7 @@ frameworks:
   - item: Ray
   - item: TensorTrade
   - item: MySQL
-  - item: pyqt5
-
+  - item: PyQt5
 
 libraries:
   - item: Pandas
@@ -28,3 +28,5 @@ libraries:
 tools:
   - item: Git & Github
   - item: VS code
+  - item: phpMyAdmin
+  - item: ProcessMaker
