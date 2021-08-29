@@ -101,7 +101,7 @@ strong {
     padding: 100px;
   }
   @include desktop {
-    padding: 0px;
+    padding: 50px;
   }
   @include tablet {
     display: block;
