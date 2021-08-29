@@ -192,18 +192,18 @@ strong {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
-    padding: 0px 170px
+    padding: 80px 170px
 }
 
 @media screen and (max-width:1280px) {
     .section {
-        padding: 0px
+        padding: 80px
     }
 }
 
 @media screen and (max-width:1024px) {
     .section {
-        padding: 0px
+        padding: 50px
     }
 }
 
@@ -215,7 +215,7 @@ strong {
 
 @media screen and (max-width:480px) {
     .section {
-        padding: 0px 35px
+        padding: 50px 35px
     }
 }
 
