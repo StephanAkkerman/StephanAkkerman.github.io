@@ -96,18 +96,18 @@ strong {
 .section {
   display: flex;
   justify-content: center;
-  padding: 100px 170px;
+  padding: 0px 170px;
   @include thirteen {
-    padding: 100px;
+    padding: 0px;
   }
   @include desktop {
-    padding: 50px;
+    padding: 0px;
   }
   @include tablet {
     display: block;
   }
   @include mobile {
-    padding: 50px 35px;
+    padding: 0px 35px;
   }
   &__title {
     flex-shrink: 0;
@@ -135,7 +135,7 @@ strong {
     width: 100%;
     max-width: 650px;
     @include tablet {
-      padding-top: 30px;
+      padding-top: 0px;
       padding-left: 50px;
     }
     @include mobile {
