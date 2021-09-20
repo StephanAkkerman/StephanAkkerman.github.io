@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://stephanakkerman.github.io/sitemap/sitemap-index.xml
-Host: https://stephanakkerman.github.io
+Sitemap: https://stephanakkerman.com/sitemap/sitemap-index.xml
+Host: https://stephanakkerman.com
